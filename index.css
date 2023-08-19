@@ -1,8 +1,15 @@
-main {
-  min-height: 100vh;
-  width: 100%;
-}
-
 .bg-1 {
   background: #f2f3f7;
+  min-height: 100vh;
 }
+
+.skill-el img {
+  width: 20%;
+  align-self: center;
+}
+
+
+.bg-2{
+  background-color: #fff;
+}
+ 
