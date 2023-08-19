@@ -1,0 +1,16 @@
+.row .col-3 {
+    background-color: rgb(105, 83, 43);
+}
+
+.col-3 img {
+    border-radius: 40%;
+}
+
+h2 {
+    margin-left: 45px;
+ }
+
+ .col-3  ul  .nav-item {
+    color: white;
+}
+
