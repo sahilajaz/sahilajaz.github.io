@@ -1,0 +1,18 @@
+.bg-1{
+    background-color: rgb(105, 83, 43);
+}
+
+.bg-1 img {
+    border-radius: 40%;
+}
+
+h2 {
+    margin-left: 45px;
+ }
+
+ .link-bar  .links {
+    font-size: 25px;
+    margin: 25px;
+    color: white;
+ }
+
