@@ -12,4 +12,7 @@
 .bg-2{
   background-color: #fff;
 }
- 
+
+.shadow {
+    box-shadow: -1px -1px 7px 2px #ccc;
+}
