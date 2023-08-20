@@ -27,3 +27,9 @@
   padding-right: 2px;
 
 }
+
+@media screen and (max-width:750px) {
+  .bg-1 {
+    min-height: unset;
+  }
+}
