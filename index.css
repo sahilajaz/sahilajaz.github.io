@@ -3,6 +3,11 @@
   min-height: 100vh;
 }
 
+.photo{
+  box-shadow: -4px 4px #ccc;
+
+}
+
 .skill-el img {
   width: 20%;
   align-self: center;
@@ -15,4 +20,10 @@
 
 .shadow {
     box-shadow: -1px -1px 7px 2px #ccc;
+}
+
+.info .icon {
+  width: 30px;
+  padding-right: 2px;
+
 }
